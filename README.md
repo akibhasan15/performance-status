@@ -1,1 +1,1 @@
-https://github.com/akibhasan15/performance-status.git
+https://github.com/akibhasan15/performance-status
